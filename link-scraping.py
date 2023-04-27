@@ -7,8 +7,21 @@ from selenium.webdriver.common.by import By
 import pandas as pd 
 import numpy as np 
 
-season_link = "https://fbref.com/en/comps/9/2017-2018/schedule/2017-2018-Premier-League-Scores-and-Fixtures"
-browser= webdriver.Chrome(ChromeDriverManager().install())
+
+
+def web_driver():
+    options = webdriver.ChromeOptions()
+    options.add_argument("--verbose")
+    options.add_argument('--no-sandbox')
+    options.add_argument('--headless')
+    options.add_argument('--disable-gpu')
+    options.add_argument("--window-size=1920, 1200")
+    options.add_argument('--disable-dev-shm-usage')
+    driver = webdriver.Chrome(options=options)
+    return drive
+
+season_link = "https://fbref.com/en/comps/12/2019-2020/schedule/2019-2020-La-Liga-Scores-and-Fixtures"
+browser= web_driver()
 
 
 browser.set_page_load_timeout(15)
@@ -33,6 +46,7 @@ for i in range(len(match_reports_links)):
 data_frame={"date":[],"home":[],"away":[],"possessionhome":[],"possessionaway":[],"passeshome":[],"passesaway":[]
             ,"saveshome":[],"savesaway":[],"crosseshome":[],"crossesaway":[],"toucheshome":[],"touchesaway":[],"tackleshome":[],"tacklesaway":[],"interceptionhome":[],
             "interceptionaway":[],"aerialshome":[],"aerialsaway":[],"clearnacehome":[],"clearnaceaway":[]}
+
 print(len(match_reports_links_lst))
 index =1
 for match_item_link in match_reports_links_lst:
@@ -47,14 +61,6 @@ for match_item_link in match_reports_links_lst:
     except:
         data_frame["date"].append(None)
     
-    try : 
-        home=browser.find_element(By.XPATH,'/html/body/div[2]/div[5]/div[2]/div[1]/div[1]/strong/a').text
-        data_frame["home"].append(home)
-        
-
-    except:
-        data_frame["home"].append(None)
-
     try : 
         home=browser.find_element(By.XPATH,'/html/body/div[2]/div[5]/div[2]/div[1]/div[1]/strong/a').text
         data_frame["home"].append(home)
@@ -175,8 +181,7 @@ for match_item_link in match_reports_links_lst:
         
         data_frame["interceptionaway"].append(interceptionaway) 
     except:
-        data_frame['interceptionaway'].append(None)  
-
+        data_frame['interceptionaway'].append(None)     
 
     try:
         aerialshome=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[2]/div[10]").text
@@ -214,4 +219,4 @@ for match_item_link in match_reports_links_lst:
 df=pd.DataFrame(data_frame)
 
     
-df.to_csv("temp.csv")   
+df.to_csv("temp2.csv")
