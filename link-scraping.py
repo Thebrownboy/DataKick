@@ -33,3 +33,24 @@ for i in range(len(match_reports_links)):
 data_frame={"date":[],"home":[],"away":[],"possessionhome":[],"possessionaway":[],"passeshome":[],"passesaway":[]
             ,"saveshome":[],"savesaway":[],"crosseshome":[],"crossesaway":[],"toucheshome":[],"touchesaway":[],"tackleshome":[],"tacklesaway":[],"interceptionhome":[],
             "interceptionaway":[],"aerialshome":[],"aerialsaway":[],"clearnacehome":[],"clearnaceaway":[]}
+print(len(match_reports_links_lst))
+index =1
+for match_item_link in match_reports_links_lst:
+    try:
+        browser.get(match_item_link)
+    except:
+        pass
+    try:
+        date = browser.find_element(By.CSS_SELECTOR,".scorebox_meta>div>span").get_attribute("data-venue-date")
+        data_frame["date"].append(date)
+        
+    except:
+        data_frame["date"].append(None)
+    
+    try : 
+        home=browser.find_element(By.XPATH,'/html/body/div[2]/div[5]/div[2]/div[1]/div[1]/strong/a').text
+        data_frame["home"].append(home)
+        
+
+    except:
+        data_frame["home"].append(None)
