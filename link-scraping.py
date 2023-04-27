@@ -54,3 +54,125 @@ for match_item_link in match_reports_links_lst:
 
     except:
         data_frame["home"].append(None)
+
+    try : 
+        home=browser.find_element(By.XPATH,'/html/body/div[2]/div[5]/div[2]/div[1]/div[1]/strong/a').text
+        data_frame["home"].append(home)
+        
+
+    except:
+        data_frame["home"].append(None)
+
+    try : 
+        away=browser.find_element(By.XPATH,'/html/body/div[2]/div[5]/div[2]/div[2]/div[1]/strong/a').text
+        data_frame["away"].append(away)
+        
+    except:
+        data_frame["away"].append(None)
+
+    try:
+        possessionhome=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[1]/table/tbody/tr[3]/td[1]/div/div[1]").text
+        
+        data_frame["possessionhome"].append(possessionhome)
+       
+    except:
+        data_frame["possessionhome"].append(None)
+    try:
+        possessionaway=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[1]/table/tbody/tr[3]/td[2]/div/div[1]").text
+        
+        data_frame['possessionaway'].append(possessionaway)
+        
+    except:
+        data_frame["possessionaway"].append(None)
+
+    try :
+        passeshome=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[1]/table/tbody/tr[5]/td[1]/div/div[1]").text
+        
+        data_frame["passeshome"].append(passeshome)
+
+    except:
+        data_frame["passeshome"].append(None)
+
+    try:
+        passesaway=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[1]/table/tbody/tr[5]/td[2]/div/div[1]").text
+        
+        data_frame["passesaway"].append(passesaway)
+    except:
+        data_frame["passesaway"].append(None)
+    
+    try:
+        saveshome=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[1]/table/tbody/tr[9]/td[1]/div/div[1]").text
+        data_frame["saveshome"].append(saveshome)
+        
+    except:
+        data_frame["saveshome"].append(None)
+
+
+    try:
+        savesaway=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[1]/table/tbody/tr[9]/td[2]/div/div[1]").text
+        data_frame["savesaway"].append(saveshome)
+        
+    except:
+        data_frame["savesaway"].append(None)
+
+    try : 
+        crosseshome = browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[1]/div[10]").text
+        
+        data_frame["crosseshome"].append(crosseshome)
+
+    except:
+        data_frame["crosseshome"].append(None)
+
+    try : 
+        crossesaway= browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[1]/div[12]").text
+        
+        data_frame["crossesaway"].append(crossesaway)
+
+    except:
+        data_frame["crossesaway"].append(None)
+    
+    try : 
+        toucheshome=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[1]/div[13]").text
+        
+        data_frame["toucheshome"].append(toucheshome)
+
+    except:
+        data_frame["toucheshome"].append(None)
+    
+    try:
+        touchesaway=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[1]/div[15]").text
+        
+        data_frame["touchesaway"].append(touchesaway)
+    
+    except:
+        data_frame["touchesaway"].append(touchesaway)
+
+    try:
+        tackleshome = browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[2]/div[4]").text
+        
+        data_frame["tackleshome"].append(tackleshome)
+    except:
+        data_frame["tackleshome"].append(None)
+
+    try : 
+        tacklesaway= browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[2]/div[6]").text
+        
+        data_frame["tacklesaway"].append(tacklesaway)
+    except:
+        data_frame["tacklesaway"].append(None)
+    
+
+    try:
+        interceptionhome=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[2]/div[7]").text
+        
+        data_frame["interceptionhome"].append(interceptionhome)
+
+    except:
+        data_frame["interceptionhome"].append(None) 
+
+    try:
+        interceptionaway=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[2]/div[9]").text
+        
+        data_frame["interceptionaway"].append(interceptionaway) 
+    except:
+        data_frame['interceptionaway'].append(None)     
