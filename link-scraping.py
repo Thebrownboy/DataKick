@@ -175,4 +175,43 @@ for match_item_link in match_reports_links_lst:
         
         data_frame["interceptionaway"].append(interceptionaway) 
     except:
-        data_frame['interceptionaway'].append(None)     
+        data_frame['interceptionaway'].append(None)  
+
+
+    try:
+        aerialshome=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[2]/div[10]").text
+        
+        data_frame["aerialshome"].append(aerialshome)
+    except:
+        data_frame["aerialshome"].append(None)
+
+    try:
+        aerialsaway=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[2]/div[12]").text
+        
+        data_frame["aerialsaway"].append(aerialsaway)
+    except:
+        data_frame["aerialsaway"].append(None)
+
+    try:
+        clearnacehome=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[2]/div[13]").text
+        
+        data_frame["clearnacehome"].append(clearnacehome)
+
+    except:
+        data_frame["clearnacehome"].append(clearnacehome)
+
+
+    try:
+        clearnaceaway=browser.find_element(By.XPATH,"/html/body/div[2]/div[5]/div[7]/div[2]/div[2]/div[15]").text
+        
+        data_frame["clearnaceaway"].append(clearnaceaway)
+
+    except:
+        data_frame["clearnaceaway"].append(None)
+
+    print(index)
+    index+=1
+df=pd.DataFrame(data_frame)
+
+    
+df.to_csv("temp.csv")   
