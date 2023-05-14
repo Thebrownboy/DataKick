@@ -39,10 +39,10 @@ def plot_top_players_Total_goals_assists():
     axes[1, 0].set_ylabel('Player', fontsize=15)
     axes[1, 1].set_ylabel('Player', fontsize=15)
     # set the limit of x-axis
-    axes[0, 0].set_xlim(0, 30)
-    axes[0, 1].set_xlim(0, 30)
-    axes[1, 0].set_xlim(0, 30)
-    axes[1, 1].set_xlim(0, 30)
+    axes[0, 0].set_xlim(0, 40)
+    axes[0, 1].set_xlim(0, 40)
+    axes[1, 0].set_xlim(0, 40)
+    axes[1, 1].set_xlim(0, 40)
     # set the limit of y-axis
     axes[0, 0].set_ylim(-1, 5)
     axes[0, 1].set_ylim(-1, 5)
