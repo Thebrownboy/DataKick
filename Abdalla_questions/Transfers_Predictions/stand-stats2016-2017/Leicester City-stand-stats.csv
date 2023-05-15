@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Christian Fuchs,at AUT,DF,30,36,35,3103,34.5,2,3,5,2,0,0,10,0,0.06,0.09,0.15,0.06,0.15,Matches,a67a09fb
+Danny Simpson,eng ENG,DF,29,35,34,2988,33.2,0,1,1,0,0,0,12,0,0.00,0.03,0.03,0.00,0.03,Matches,3201b03d
+Robert Huth,de GER,DF,31,33,33,2926,32.5,2,1,3,2,0,0,9,0,0.06,0.03,0.09,0.06,0.09,Matches,0bd1ea64
+Riyad Mahrez,dz ALG,MF,25,36,33,2825,31.4,6,4,10,3,3,5,4,0,0.19,0.13,0.32,0.10,0.22,Matches,892d5bb1
+Jamie Vardy,eng ENG,FW,29,35,33,2802,31.1,13,4,17,13,0,0,2,1,0.42,0.13,0.55,0.42,0.55,Matches,45963054
+Kasper Schmeichel,dk DEN,GK,29,30,30,2666,29.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,53af52f3
+Marc Albrighton,eng ENG,MF,26,33,29,2411,26.8,2,6,8,2,0,0,5,0,0.07,0.22,0.30,0.07,0.30,Matches,b827d5b3
+Danny Drinkwater,eng ENG,MF,26,29,27,2466,27.4,1,2,3,1,0,0,6,0,0.04,0.07,0.11,0.04,0.11,Matches,2649ff32
+Wes Morgan,jm JAM,DF,32,27,27,2430,27.0,1,0,1,1,0,0,3,0,0.04,0.00,0.04,0.04,0.04,Matches,80c31c97
+Shinji Okazaki,jp JPN,FWMF,30,30,21,1565,17.4,3,1,4,3,0,0,1,0,0.17,0.06,0.23,0.17,0.23,Matches,68796d61
+Daniel Amartey,gh GHA,MF,21,24,17,1673,18.6,1,1,2,1,0,0,3,0,0.05,0.05,0.11,0.05,0.11,Matches,1a4ef233
+Wilfred Ndidi,ng NGA,MF,19,17,17,1521,16.9,2,1,3,2,0,0,0,0,0.12,0.06,0.18,0.12,0.18,Matches,6b47c5db
+Andy King,wls WAL,MF,27,23,15,1446,16.1,1,0,1,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches,d790907f
+Islam Slimani,dz ALG,FW,28,23,13,1281,14.2,7,4,11,6,1,1,1,0,0.49,0.28,0.77,0.42,0.70,Matches,ffec9769
+Yohan Benalouane,tn TUN,DF,29,11,11,917,10.2,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,8309b068
+Demarai Gray,eng ENG,MFFW,20,30,9,1049,11.7,1,3,4,1,0,0,2,0,0.09,0.26,0.34,0.09,0.34,Matches,4468ec10
+Ron-Robert Zieler,de GER,GK,27,9,8,754,8.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a0606ae8
+Ahmed Musa,ng NGA,MFFW,23,21,7,761,8.5,2,1,3,2,0,0,1,0,0.24,0.12,0.35,0.24,0.35,Matches,b7084daf
+Ben Chilwell,eng ENG,DFMF,19,12,7,699,7.8,1,0,1,1,0,0,2,0,0.13,0.00,0.13,0.13,0.13,Matches,d2424d1b
+Nampalys Mendy,sn SEN,MF,24,4,4,269,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1598599e
+Leonardo Ulloa,ar ARG,FW,30,16,3,447,5.0,1,0,1,1,0,0,0,0,0.20,0.00,0.20,0.20,0.20,Matches,eed56f6c
+Luis Hernández,es ESP,DF,27,4,3,327,3.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,02d2c436
+Jeffrey Schlupp,gh GHA,MF,23,4,1,141,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3312f911
+Marcin Wasilewski,pl POL,DF,36,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,24249219
+Matty James,eng ENG,MF,25,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ebd0a048
+Ben Hamer,eng ENG,GK,28,0,0,,,,,,,,,,,,,,,,Matches,d822a850
+Bartosz Kapustka,pl POL,MF,19,0,0,,,,,,,,,,,,,,,,Matches,7364c4d1
+Elliott Moore,eng ENG,DF,19,0,0,,,,,,,,,,,,,,,,Matches,328bcff5
+Squad Total,,,27.8,38,418,3420,38.0,46,32,78,42,4,6,0,0,1.21,0.84,2.05,1.11,1.95,,-9999
+Opponent Total,,,27.2,38,418,3420,38.0,61,42,103,58,3,3,56,0,1.61,1.11,2.71,1.53,2.63,,-9999

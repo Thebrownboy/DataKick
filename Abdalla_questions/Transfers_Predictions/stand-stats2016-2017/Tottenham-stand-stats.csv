@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Christian Eriksen,dk DEN,MF,24,36,36,3157,35.1,8,15,23,8,0,0,0,0,0.23,0.43,0.66,0.23,0.66,Matches,980522ec
+Dele Alli,eng ENG,MF,20,37,35,3034,33.7,18,7,25,17,1,1,4,0,0.53,0.21,0.74,0.50,0.71,Matches,cea4ee8f
+Victor Wanyama,ke KEN,MF,25,36,35,3012,33.5,4,1,5,4,0,0,10,0,0.12,0.03,0.15,0.12,0.15,Matches,e0900238
+Eric Dier,eng ENG,DFMF,22,36,34,3043,33.8,2,1,3,2,0,0,6,0,0.06,0.03,0.09,0.06,0.09,Matches,ac861941
+Hugo Lloris,fr FRA,GK,29,34,34,3004,33.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8f62b6ee
+Jan Vertonghen,be BEL,DF,29,33,33,2894,32.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,ba23a904
+Kyle Walker,eng ENG,DFMF,26,33,31,2701,30.0,0,5,5,0,0,0,8,0,0.00,0.17,0.17,0.00,0.17,Matches,86dd77d1
+Toby Alderweireld,be BEL,DF,27,30,30,2601,28.9,1,0,1,1,0,0,1,0,0.03,0.00,0.03,0.03,0.03,Matches,f7d50789
+Harry Kane,eng ENG,FW,23,30,29,2521,28.0,29,5,34,24,5,6,3,0,1.04,0.18,1.21,0.86,1.04,Matches,21a66f6a
+Mousa Dembélé,be BEL,MF,29,30,24,2056,22.8,1,1,2,1,0,0,5,0,0.04,0.04,0.09,0.04,0.09,Matches,f7ee69fb
+Son Heung-min,kr KOR,MFFW,24,34,23,2062,22.9,14,6,20,14,0,0,2,0,0.61,0.26,0.87,0.61,0.87,Matches,92e7e919
+Ben Davies,wls WAL,DFMF,23,23,18,1739,19.3,1,3,4,1,0,0,1,0,0.05,0.16,0.21,0.05,0.21,Matches,44781702
+Danny Rose,eng ENG,DFMF,26,18,18,1530,17.0,2,2,4,2,0,0,8,0,0.12,0.12,0.24,0.12,0.24,Matches,89d10e53
+Moussa Sissoko,fr FRA,MFFW,26,25,8,911,10.1,0,2,2,0,0,0,3,0,0.00,0.20,0.20,0.00,0.20,Matches,2acd49b9
+Vincent Janssen,nl NED,FW,22,27,7,845,9.4,2,2,4,1,1,1,0,0,0.21,0.21,0.43,0.11,0.32,Matches,31dce0c8
+Érik Lamela,ar ARG,MF,24,9,6,594,6.6,1,3,4,1,0,1,1,0,0.15,0.45,0.61,0.15,0.61,Matches,abe66106
+Kieran Trippier,eng ENG,DFMF,25,12,6,568,6.3,0,5,5,0,0,0,1,0,0.00,0.79,0.79,0.00,0.79,Matches,21512407
+Michel Vorm,nl NED,GK,32,5,4,416,4.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1bebde9d
+Kevin Wimmer,at AUT,DF,23,5,4,357,4.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,faf55ce4
+Harry Winks,eng ENG,MF,20,21,3,493,5.5,1,1,2,1,0,0,1,0,0.18,0.18,0.37,0.18,0.37,Matches,2f7acede
+Georges-Kévin N'Koudou,cm CMR,MF,21,8,0,54,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,76c131da
+Josh Onomah,eng ENG,FWMF,19,5,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6612cd8c
+Filip Lesniak,sk SVK,MF,20,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5348fe7c
+Tom Carroll,eng ENG,MF,24,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5a1900a4
+Cameron Carter-Vickers,us USA,DF,18,0,0,,,,,,,,,,,,,,,,Matches,88ced02c
+Pau López,es ESP,GK,21,0,0,,,,,,,,,,,,,,,,Matches,20b9f052
+Ryan Mason,eng ENG,MF,25,0,0,,,,,,,,,,,,,,,,Matches,c8fac933
+Luke McGee,eng ENG,GK,20,0,0,,,,,,,,,,,,,,,,Matches,bfa6049d
+Samuel Shashoua,eng ENG,FW,17,0,0,,,,,,,,,,,,,,,,Matches,df855e4b
+Squad Total,,,25.3,38,418,3420,38.0,84,59,143,77,7,9,0,0,2.21,1.55,3.76,2.03,3.58,,-9999
+Opponent Total,,,27.4,38,418,3420,38.0,25,15,40,23,2,2,90,3,0.66,0.39,1.05,0.61,1.00,,-9999

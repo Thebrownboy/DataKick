@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Álvaro González,es ESP,DF,25,36,36,3226,35.8,0,1,1,0,0,0,10,0,0.00,0.03,0.03,0.00,0.03,Matches,42dcf26d
+Pau López,es ESP,GK,20,36,35,3195,35.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,20b9f052
+Marco Asensio,es ESP,MFFW,19,34,33,2825,31.4,4,8,12,4,0,0,3,0,0.13,0.25,0.38,0.13,0.38,Matches,45af8a54
+Papakouli Diop,sn SEN,MF,29,30,29,2481,27.6,3,1,4,3,0,0,15,1,0.11,0.04,0.15,0.11,0.15,Matches,7329018e
+Javi López,es ESP,DFMF,29,31,28,2422,26.9,0,2,2,0,0,0,11,0,0.00,0.07,0.07,0.00,0.07,Matches,ffad706e
+Víctor Sánchez,es ESP,MF,27,29,28,2290,25.4,1,6,7,1,0,0,15,2,0.04,0.24,0.28,0.04,0.28,Matches,ad4d0985
+Hernán Pérez,py PAR,MFFW,26,32,27,2445,27.2,7,1,8,7,0,0,12,0,0.26,0.04,0.29,0.26,0.29,Matches,e1cea3f7
+Enzo Roco,cl CHI,DF,22,33,26,2466,27.4,2,0,2,2,0,0,9,0,0.07,0.00,0.07,0.07,0.07,Matches,37f827ec
+Felipe Caicedo,ec ECU,FW,26,31,26,2136,23.7,8,0,8,8,0,1,6,0,0.34,0.00,0.34,0.34,0.34,Matches,93b891d1
+Víctor Álvarez,es ESP,MFDF,22,27,25,1959,21.8,1,2,3,1,0,0,6,0,0.05,0.09,0.14,0.05,0.14,Matches,563f3469
+Rubén Duarte,es ESP,DF,19,22,21,1863,20.7,0,1,1,0,0,0,5,0,0.00,0.05,0.05,0.00,0.05,Matches,1fe0492d
+Gerard Moreno,es ESP,FWMF,23,32,19,1915,21.3,7,3,10,6,1,1,5,1,0.33,0.14,0.47,0.28,0.42,Matches,81f0781e
+Óscar Duarte,cr CRC,DFMF,26,14,13,1195,13.3,1,0,1,1,0,0,5,0,0.08,0.00,0.08,0.08,0.08,Matches,aa0ac32d
+Abraham González,es ESP,MF,30,20,13,1101,12.2,1,1,2,1,0,0,1,0,0.08,0.08,0.16,0.08,0.16,Matches,682bd745
+Juan Rafael Fuentes,es ESP,DF,25,10,9,757,8.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,5b54a75f
+Burgui,es ESP,MFFW,21,26,8,984,10.9,1,3,4,1,0,1,0,0,0.09,0.27,0.37,0.09,0.37,Matches,45e304c8
+José Cañas,es ESP,MF,28,13,7,692,7.7,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,ab77f2d9
+Anaitz Arbilla,es ESP,DF,28,7,7,630,7.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,850c0a0d
+Joan Jordán,es ESP,MF,21,9,5,626,7.0,1,0,1,1,0,0,3,0,0.14,0.00,0.14,0.14,0.14,Matches,2a0c8ba4
+Salva Sevilla,es ESP,MF,31,15,5,533,5.9,1,0,1,1,0,0,3,0,0.17,0.00,0.17,0.17,0.17,Matches,75bd85ea
+Rober Correa,es ESP,DF,22,7,5,467,5.2,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,46bd3a5b
+Antonio Raillo,es ESP,DF,23,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,b857bd29
+Giedrius Arlauskis,lt LTU,GK,27,3,3,225,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1858bbf7
+Mamadou Sylla,sn SEN,FW,21,14,2,339,3.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,e5ec95f8
+Paco Montañés,es ESP,MF,28,7,2,275,3.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,9cc493b1
+Michaël Ciani,fr FRA,DF,31,2,2,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2ce3dc98
+Francesco Bardi,it ITA,GK,23,0,0,,,,,,,,,,,,,,,,Matches,0acda699
+Lluis López,es ESP,DF,18,0,0,,,,,,,,,,,,,,,,Matches,a685f013
+Andrés Prieto,es ESP,GK,21,0,0,,,,,,,,,,,,,,,,Matches,113fb4ea
+Squad Total,,,24.9,38,418,3420,38.0,38,29,67,37,1,3,132,5,1.00,0.76,1.76,0.97,1.74,,-9999
+Opponent Total,,,26.7,38,418,3420,38.0,72,50,122,66,6,6,113,6,1.89,1.32,3.21,1.74,3.05,,-9999

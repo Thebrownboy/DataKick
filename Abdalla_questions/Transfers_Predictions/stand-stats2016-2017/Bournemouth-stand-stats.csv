@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Steve Cook,eng ENG,DF,25,38,38,3420,38.0,2,0,2,2,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches,3e5e4e63
+Artur Boruc,pl POL,GK,36,35,35,3150,35.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,34ccf6fa
+Adam Smith,eng ENG,DFMF,25,36,34,3079,34.2,1,5,6,1,0,0,6,0,0.03,0.15,0.18,0.03,0.18,Matches,20b104bc
+Charlie Daniels,eng ENG,DF,29,34,34,3060,34.0,4,3,7,4,0,0,1,0,0.12,0.09,0.21,0.12,0.21,Matches,9d107085
+Simon Francis,eng ENG,DF,31,34,34,2939,32.7,0,1,1,0,0,0,4,1,0.00,0.03,0.03,0.00,0.03,Matches,1e0b6a73
+Harry Arter,ie IRL,MF,26,35,33,2957,32.9,1,3,4,1,0,1,12,2,0.03,0.09,0.12,0.03,0.12,Matches,2f4c5a52
+Joshua King,no NOR,MFFW,24,36,31,2713,30.1,16,2,18,14,2,3,1,0,0.53,0.07,0.60,0.46,0.53,Matches,43458538
+Jack Wilshere,eng ENG,MF,24,27,22,1910,21.2,0,2,2,0,0,0,3,0,0.00,0.09,0.09,0.00,0.09,Matches,9c318325
+Andrew Surman,eng ENG,MF,29,22,21,1801,20.0,0,1,1,0,0,0,2,2,0.00,0.05,0.05,0.00,0.05,Matches,7d41b619
+Ryan Fraser,sct SCO,MF,22,28,19,1764,19.6,3,5,8,3,0,0,3,0,0.15,0.26,0.41,0.15,0.41,Matches,d56543a0
+Junior Stanislas,eng ENG,MF,26,21,18,1467,16.3,7,5,12,5,2,2,1,0,0.43,0.31,0.74,0.31,0.61,Matches,6992791d
+Callum Wilson,eng ENG,FW,24,20,16,1423,15.8,6,0,6,3,3,3,0,0,0.38,0.00,0.38,0.19,0.19,Matches,c596fcb0
+Marc Pugh,eng ENG,MF,29,21,16,1328,14.8,2,2,4,2,0,0,1,0,0.14,0.14,0.27,0.14,0.27,Matches,9aacb284
+Benik Afobe,cd COD,FW,23,31,14,1461,16.2,6,3,9,6,0,1,1,0,0.37,0.18,0.55,0.37,0.55,Matches,b63f4077
+Dan Gosling,eng ENG,MF,26,27,14,1366,15.2,2,0,2,2,0,0,6,0,0.13,0.00,0.13,0.13,0.13,Matches,7fec31a0
+Jordon Ibe,eng ENG,MFFW,20,25,13,1055,11.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9f736ed2
+Nathan Aké,nl NED,DF,21,10,8,735,8.2,3,0,3,3,0,0,0,0,0.37,0.00,0.37,0.37,0.37,Matches,eaeca114
+Tyrone Mings,eng ENG,DF,23,7,5,506,5.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8397a50c
+Lewis Cook,eng ENG,MF,19,6,4,432,4.8,0,1,1,0,0,0,1,0,0.00,0.21,0.21,0.00,0.21,Matches,2afc7272
+Brad Smith,au AUS,DFMF,22,5,3,291,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c76c717c
+Lys Mousset,fr FRA,FW,20,11,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d9cfca3d
+Adam Federici,au AUS,GK,31,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,e5ea8be7
+Ryan Allsop,eng ENG,GK,24,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,af615123
+Max Gradel,ci CIV,FWMF,28,11,0,134,1.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,c5a500ca
+Lewis Grabban,eng ENG,FWMF,28,3,0,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1a857282
+Matt Worthington,eng ENG,DFMF,18,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8c8b941f
+Baily Cargill,eng ENG,DF,21,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6dbe8f69
+Aaron Ramsdale,eng ENG,GK,18,0,0,,,,,,,,,,,,,,,,Matches,466fb2c5
+Sam Surridge,eng ENG,FW,18,0,0,,,,,,,,,,,,,,,,Matches,b017b770
+Marc Wilson,ie IRL,DFMF,28,0,0,,,,,,,,,,,,,,,,Matches,c325c010
+Squad Total,,,27.0,38,418,3420,38.0,53,33,86,46,7,10,0,2,1.39,0.87,2.26,1.21,2.08,,-9999
+Opponent Total,,,27.3,38,418,3420,38.0,63,47,110,61,2,5,87,3,1.66,1.24,2.89,1.61,2.84,,-9999

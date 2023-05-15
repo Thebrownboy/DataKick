@@ -1,0 +1,38 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+David de Gea,es ESP,GK,25,35,35,3150,35.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,7ba6d84e
+Paul Pogba,fr FRA,MF,23,30,29,2608,29.0,5,4,9,5,0,0,7,0,0.17,0.14,0.31,0.17,0.31,Matches,867239d3
+Antonio Valencia,ec ECU,DF,30,28,27,2483,27.6,1,3,4,1,0,0,5,0,0.04,0.11,0.14,0.04,0.14,Matches,08aa17d0
+Ander Herrera,es ESP,MF,26,31,27,2464,27.4,1,5,6,1,0,0,6,2,0.04,0.18,0.22,0.04,0.22,Matches,436a9dd0
+Zlatan Ibrahimović,se SWE,FW,34,28,27,2438,27.1,17,5,22,15,2,3,7,0,0.63,0.18,0.81,0.55,0.74,Matches,4cde5509
+Eric Bailly,ci CIV,DF,22,25,24,2058,22.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,a1232f4e
+Daley Blind,nl NED,DF,26,23,20,1830,20.3,1,2,3,1,0,0,2,0,0.05,0.10,0.15,0.05,0.15,Matches,691bef82
+Juan Mata,es ESP,MFFW,28,25,19,1614,17.9,6,3,9,6,0,0,3,0,0.33,0.17,0.50,0.33,0.50,Matches,29733c72
+Marcos Rojo,ar ARG,DF,26,21,18,1663,18.5,1,0,1,1,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches,e0991c04
+Marouane Fellaini,be BEL,MF,28,28,18,1605,17.8,1,0,1,1,0,0,9,1,0.06,0.00,0.06,0.06,0.06,Matches,87575fd9
+Michael Carrick,eng ENG,MF,35,23,18,1600,17.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,ab7263c1
+Phil Jones,eng ENG,DF,24,18,18,1584,17.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,def899bd
+Anthony Martial,fr FRA,MFFW,20,25,18,1554,17.3,4,5,9,4,0,0,2,0,0.23,0.29,0.52,0.23,0.52,Matches,8b788c01
+Jesse Lingard,eng ENG,MFFW,23,25,18,1360,15.1,1,1,2,1,0,0,3,0,0.07,0.07,0.13,0.07,0.13,Matches,810e3c74
+Marcus Rashford,eng ENG,FWMF,18,32,16,1710,19.0,5,1,6,5,0,0,3,0,0.26,0.05,0.32,0.26,0.32,Matches,a1d5bd30
+Wayne Rooney,eng ENG,MFFW,30,25,15,1539,17.1,5,5,10,4,1,1,8,0,0.29,0.29,0.58,0.23,0.53,Matches,f07be45a
+Henrikh Mkhitaryan,am ARM,FWMF,27,24,15,1348,15.0,4,1,5,4,0,0,1,0,0.27,0.07,0.33,0.27,0.33,Matches,dd0daf32
+Matteo Darmian,it ITA,DF,26,18,15,1333,14.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,96e0490d
+Chris Smalling,eng ENG,DF,26,18,13,1217,13.5,1,0,1,1,0,0,0,0,0.07,0.00,0.07,0.07,0.07,Matches,b6964eb6
+Luke Shaw,eng ENG,DF,21,11,9,688,7.6,0,1,1,0,0,0,1,0,0.00,0.13,0.13,0.00,0.13,Matches,9c94165b
+Ashley Young,eng ENG,DFMF,31,12,8,758,8.4,0,1,1,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12,Matches,be927d03
+Axel Tuanzebe,eng ENG,MFDF,18,4,4,303,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2baec6ce
+Sergio Romero,ar ARG,GK,29,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1e26e376
+Timothy Fosu-Mensah,nl NED,DF,18,4,1,97,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a9142dc3
+Scott McTominay,sct SCO,MF,19,2,1,97,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d93c2511
+Joel Castro Pereira,pt POR,GK,20,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,881e5db7
+Josh Harrop,eng ENG,FW,20,1,1,90,1.0,1,0,1,1,0,0,0,0,1.00,0.00,1.00,1.00,1.00,Matches,00e1cf8f
+Demetri Mitchell,eng ENG,DF,19,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c286f3c2
+Memphis,nl NED,FWMF,22,4,0,24,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,8f696594
+Morgan Schneiderlin,fr FRA,MF,26,3,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,51b41c5c
+Angel Gomes,eng ENG,FWMF,15,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,645a3363
+Zak Dearnley,eng ENG,FW,17,0,0,,,,,,,,,,,,,,,,Matches,0484975a
+Kieran O'Hara,ie IRL,GK,20,0,0,,,,,,,,,,,,,,,,Matches,80cbe60b
+Bastian Schweinsteiger,de GER,DFMF,31,0,0,,,,,,,,,,,,,,,,Matches,ccc22fea
+Matty Willock,ms MSR,MF,19,0,0,,,,,,,,,,,,,,,,Matches,7e4985b2
+Squad Total,,,26.7,38,418,3420,38.0,54,37,91,51,3,4,0,1,1.42,0.97,2.39,1.34,2.32,,-9999
+Opponent Total,,,27.4,38,418,3420,38.0,28,18,46,24,4,5,71,4,0.74,0.47,1.21,0.63,1.11,,-9999

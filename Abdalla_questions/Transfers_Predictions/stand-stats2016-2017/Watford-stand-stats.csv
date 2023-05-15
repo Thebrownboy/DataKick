@@ -1,0 +1,42 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Heurelho Gomes,br BRA,GK,35,38,38,3337,37.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d596e193
+Étienne Capoue,fr FRA,MF,28,37,37,3203,35.6,7,1,8,7,0,0,5,0,0.20,0.03,0.22,0.20,0.22,Matches,5acc4a10
+José Holebas,gr GRE,DFMF,32,33,33,2905,32.3,2,4,6,2,0,0,14,0,0.06,0.12,0.19,0.06,0.19,Matches,12aa7661
+Sebastian Prödl,at AUT,DF,29,33,32,2769,30.8,1,1,2,1,0,0,11,2,0.03,0.03,0.07,0.03,0.07,Matches,f5e6d08d
+Troy Deeney,eng ENG,FW,28,37,31,2944,32.7,10,4,14,7,3,3,7,0,0.31,0.12,0.43,0.21,0.34,Matches,82e34b69
+Miguel Britos,uy URU,DF,31,27,27,2282,25.4,1,2,3,1,0,0,8,4,0.04,0.08,0.12,0.04,0.12,Matches,356a9a62
+Valon Behrami,ch SUI,MF,31,27,26,2030,22.6,0,2,2,0,0,0,7,0,0.00,0.09,0.09,0.00,0.09,Matches,d3d758d8
+Nordin Amrabat,ma MAR,MFFW,29,29,25,2091,23.2,0,3,3,0,0,0,4,0,0.00,0.13,0.13,0.00,0.13,Matches,7c2a398c
+Younès Kaboul,fr FRA,DF,30,22,22,1820,20.2,2,0,2,2,0,0,2,0,0.10,0.00,0.10,0.10,0.10,Matches,3680d723
+Daryl Janmaat,nl NED,MFDF,27,27,18,1617,18.0,2,1,3,2,0,0,2,0,0.11,0.06,0.17,0.11,0.17,Matches,45da6694
+Tom Cleverley,eng ENG,MF,26,17,16,1441,16.0,0,2,2,0,0,0,3,0,0.00,0.12,0.12,0.00,0.12,Matches,6cdd8245
+M'Baye Niang,sn SEN,MFFW,21,16,15,1246,13.8,2,2,4,2,0,0,2,0,0.14,0.14,0.29,0.14,0.29,Matches,2054d037
+Abdoulaye Doucouré,ml MLI,MF,23,20,14,1361,15.1,1,0,1,1,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches,02b29014
+Odion Ighalo,ng NGA,FW,27,18,14,1291,14.3,1,0,1,1,0,0,1,0,0.07,0.00,0.07,0.07,0.07,Matches,03622183
+Craig Cathcart,nir NIR,DF,27,15,13,1162,12.9,0,1,1,0,0,0,3,0,0.00,0.08,0.08,0.00,0.08,Matches,89e4b358
+Roberto Pereyra,ar ARG,MFFW,25,13,12,1037,11.5,2,2,4,2,0,0,2,1,0.17,0.17,0.35,0.17,0.35,Matches,75f2c59f
+Stefano Okaka,it ITA,FW,26,19,10,958,10.6,4,1,5,4,0,0,5,0,0.38,0.09,0.47,0.38,0.47,Matches,601ef102
+Adlène Guedioura,dz ALG,MF,30,12,9,721,8.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,f75825e3
+Christian Kabasele,be BEL,DFMF,25,16,7,771,8.6,2,0,2,2,0,0,1,0,0.23,0.00,0.23,0.23,0.23,Matches,914ab9a1
+Juan Zúñiga,co COL,DFMF,30,21,6,825,9.2,1,0,1,1,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches,06b34f37
+Adrian Mariappa,jm JAM,DF,29,7,6,562,6.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8aa5f52c
+Mauro Zárate,ar ARG,FWMF,29,3,3,203,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cc18ff4c
+Isaac Success,ng NGA,MF,20,19,2,519,5.8,1,1,2,1,0,0,2,0,0.17,0.17,0.35,0.17,0.35,Matches,f573a8bf
+Jerome Sinclair,eng ENG,FW,19,5,1,116,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1695c659
+Brandon Mason,eng ENG,DF,18,2,1,113,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1415840f
+Costel Pantilimon,ro ROU,GK,29,2,0,83,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d24e154c
+Ben Watson,eng ENG,MF,31,4,0,54,0.6,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,df540668
+Andrew Eleftheriou,eng ENG,DF,18,1,0,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0878b548
+Dion Pereira,eng ENG,MF,17,2,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8aab04dc
+Kenedy,br BRA,FWMF,20,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5eebbfdf
+Ikechi Anya,sct SCO,FWMF,28,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c55e973d
+Michael Folivi,eng ENG,FW,18,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a7b41270
+Matěj Vydra,cz CZE,FWMF,24,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0d4ceb32
+Giedrius Arlauskis,lt LTU,GK,28,0,0,,,,,,,,,,,,,,,,Matches,1858bbf7
+Rene Gilmartin,ie IRL,GK,29,0,0,,,,,,,,,,,,,,,,Matches,f1b7c957
+Tommie Hoban,ie IRL,DF,22,0,0,,,,,,,,,,,,,,,,Matches,45045170
+Allan Nyom,cm CMR,DFMF,28,0,0,,,,,,,,,,,,,,,,Matches,97572117
+Charlie Rowan,eng ENG,DF,18,0,0,,,,,,,,,,,,,,,,Matches,d129989d
+Carl Stewart,eng ENG,MF,19,0,0,,,,,,,,,,,,,,,,Matches,9e5c080a
+Squad Total,,,29.0,38,418,3420,38.0,39,27,66,36,3,3,0,3,1.03,0.71,1.74,0.95,1.66,,-9999
+Opponent Total,,,27.2,38,418,3420,38.0,66,47,113,63,3,4,62,3,1.74,1.24,2.97,1.66,2.89,,-9999

@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Erik Pieters,nl NED,DFMF,27,36,35,3151,35.0,0,1,1,0,0,0,5,0,0.00,0.03,0.03,0.00,0.03,Matches,1ef37668
+Ryan Shawcross,eng ENG,DF,28,35,35,3150,35.0,1,1,2,1,0,0,6,0,0.03,0.03,0.06,0.03,0.06,Matches,285a3d44
+Bruno Martins Indi,nl NED,DF,24,35,35,3146,35.0,1,0,1,1,0,0,4,0,0.03,0.00,0.03,0.03,0.03,Matches,7bc34048
+Joe Allen,wls WAL,MF,26,36,34,2930,32.6,6,2,8,6,0,0,9,0,0.18,0.06,0.25,0.18,0.25,Matches,9feb8f24
+Marko Arnautović,at AUT,MFFW,27,32,32,2714,30.2,6,5,11,6,0,1,9,1,0.20,0.17,0.36,0.20,0.36,Matches,00459419
+Lee Grant,eng ENG,GK,33,28,28,2520,28.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,9dab6e3b
+Glenn Whelan,ie IRL,MF,32,30,26,2275,25.3,0,1,1,0,0,0,5,0,0.00,0.04,0.04,0.00,0.04,Matches,d5bd56a5
+Glen Johnson,eng ENG,DF,31,23,21,1957,21.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,8cceca90
+Xherdan Shaqiri,ch SUI,MF,24,21,21,1698,18.9,4,2,6,4,0,0,2,0,0.21,0.11,0.32,0.21,0.32,Matches,6421ec64
+Geoff Cameron,us USA,MFDF,31,19,18,1629,18.1,0,2,2,0,0,0,1,0,0.00,0.11,0.11,0.00,0.11,Matches,1a160ea3
+Charlie Adam,sct SCO,MF,30,24,17,1517,16.9,1,3,4,0,1,1,7,0,0.06,0.18,0.24,0.00,0.18,Matches,aff418dc
+Mame Biram Diouf,sn SEN,MFFW,28,27,15,1385,15.4,1,2,3,1,0,0,3,0,0.06,0.13,0.19,0.06,0.19,Matches,7f4f3e49
+Phil Bardsley,sct SCO,DF,31,15,14,1168,13.0,0,0,0,0,0,0,5,2,0.00,0.00,0.00,0.00,0.00,Matches,1ae30132
+Peter Crouch,eng ENG,FW,35,27,13,1343,14.9,7,2,9,7,0,0,3,0,0.47,0.13,0.60,0.47,0.60,Matches,73d9bdc7
+Jonathan Walters,ie IRL,FWMF,32,23,13,1304,14.5,4,2,6,3,1,1,1,0,0.28,0.14,0.41,0.21,0.35,Matches,0356cf4f
+Giannelli Imbula,cd COD,MF,23,12,9,796,8.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,b86fe156
+Wilfried Bony,ci CIV,FW,27,10,9,684,7.6,2,0,2,2,0,0,1,0,0.26,0.00,0.26,0.26,0.26,Matches,61abe9b6
+Ramadan Sobhi,eg EGY,MF,19,17,8,854,9.5,0,1,1,0,0,0,2,0,0.00,0.11,0.11,0.00,0.11,Matches,98be0d02
+Saido Berahino,bi BDI,FW,22,13,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,25b166d0
+Marc Muniesa,es ESP,DF,24,10,7,650,7.2,1,0,1,1,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches,4db76f57
+Bojan Krkić,es ESP,MFFW,25,9,5,475,5.3,3,0,3,1,2,3,1,0,0.57,0.00,0.57,0.19,0.19,Matches,9fa0a0b8
+Jack Butland,eng ENG,GK,23,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cc70a1d5
+Shay Given,ie IRL,GK,40,5,5,450,5.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0db918ff
+Ibrahim Afellay,nl NED,MF,30,12,3,384,4.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9a8c6673
+Philipp Wollscheid,de GER,DF,27,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c4cca587
+Julien Ngoy,be BEL,FWMF,18,5,0,49,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,87449a74
+Tom Edwards,eng ENG,DF,17,0,0,,,,,,,,,,,,,,,,Matches,1b780599
+Jakob Haugaard,dk DEN,GK,24,0,0,,,,,,,,,,,,,,,,Matches,142741bb
+Joel Taylor,eng ENG,DF,20,0,0,,,,,,,,,,,,,,,,Matches,3a6e34b9
+Thibaud Verlinden,be BEL,FWMF,17,0,0,,,,,,,,,,,,,,,,Matches,e5c026d6
+Squad Total,,,28.7,38,418,3420,38.0,37,24,61,33,4,6,0,1,0.97,0.63,1.61,0.87,1.50,,-9999
+Opponent Total,,,27.4,38,418,3420,38.0,51,38,89,50,1,2,80,2,1.34,1.00,2.34,1.32,2.32,,-9999

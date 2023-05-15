@@ -13,6 +13,10 @@ class shotsOnTarget:
         df = df[(df['HomeTeam'] == 'Liverpool') | (df['AwayTeam'] == 'Liverpool')]
         # count the number of shots on target for Liverpool case it wins either as HomeTeam or AwayTeam
         df['SOT'] = df.apply(lambda row: row['HST'] if row['HomeTeam'] == 'Liverpool' and row['FTR'] == 'H' else row['AST'] if row['AwayTeam'] == 'Liverpool' and row['FTR'] == 'A' else 0, axis=1)
+        # count the number of shots on target for Liverpool case it loses either as HomeTeam or AwayTeam
+        df['SOT'] = df.apply(lambda row: row['HST'] if row['HomeTeam'] == 'Liverpool' and row['FTR'] == 'A' else row['AST'] if row['AwayTeam'] == 'Liverpool' and row['FTR'] == 'H' else row['SOT'], axis=1)
+        # count the number of shots on target for Liverpool case it draws either as HomeTeam or AwayTeam
+        df['SOT'] = df.apply(lambda row: row['HST'] if row['FTR'] == 'D' else row['SOT'], axis=1)
         # add result column to the dataframe W, L, D 
         df['Result'] = df.apply(lambda row: 'W' if row['HomeTeam'] == 'Liverpool' and row['FTR'] == 'H' 
             else 'W' if row['AwayTeam'] == 'Liverpool' and row['FTR'] == 'A' 

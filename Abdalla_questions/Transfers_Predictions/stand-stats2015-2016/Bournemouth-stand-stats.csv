@@ -1,0 +1,37 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Andrew Surman,eng ENG,MF,28,38,38,3420,38.0,0,3,3,0,0,0,4,0,0.00,0.08,0.08,0.00,0.08,Matches,7d41b619
+Simon Francis,eng ENG,DF,30,38,38,3387,37.6,0,4,4,0,0,0,5,1,0.00,0.11,0.11,0.00,0.11,Matches,1e0b6a73
+Charlie Daniels,eng ENG,DF,28,37,37,3285,36.5,3,5,8,1,2,2,2,0,0.08,0.14,0.22,0.03,0.16,Matches,9d107085
+Steve Cook,eng ENG,DF,24,36,36,3195,35.5,4,0,4,4,0,0,5,0,0.11,0.00,0.11,0.11,0.11,Matches,3e5e4e63
+Matt Ritchie,sct SCO,MF,25,37,33,2973,33.0,4,6,10,4,0,0,5,0,0.12,0.18,0.30,0.12,0.30,Matches,71ef519e
+Artur Boruc,pl POL,GK,35,32,32,2880,32.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,34ccf6fa
+Dan Gosling,eng ENG,MF,25,34,28,2444,27.2,3,1,4,3,0,0,6,0,0.11,0.04,0.15,0.11,0.15,Matches,7fec31a0
+Joshua King,no NOR,FWMF,23,31,24,1913,21.3,6,2,8,6,0,0,1,0,0.28,0.09,0.38,0.28,0.38,Matches,43458538
+Adam Smith,eng ENG,DF,24,31,22,2100,23.3,2,0,2,2,0,0,5,0,0.09,0.00,0.09,0.09,0.09,Matches,20b104bc
+Harry Arter,ie IRL,MF,25,21,21,1661,18.5,1,0,1,1,0,0,7,0,0.05,0.00,0.05,0.05,0.05,Matches,2f4c5a52
+Junior Stanislas,eng ENG,MF,25,21,17,1435,15.9,3,2,5,3,0,0,1,0,0.19,0.13,0.31,0.19,0.31,Matches,6992791d
+Marc Pugh,eng ENG,MF,28,26,15,1337,14.9,3,2,5,3,0,0,1,0,0.20,0.13,0.34,0.20,0.34,Matches,9aacb284
+Benik Afobe,cd COD,FW,22,15,12,930,10.3,4,0,4,4,0,0,0,0,0.39,0.00,0.39,0.39,0.39,Matches,b63f4077
+Tommy Elphick,eng ENG,DF,27,12,11,1013,11.3,1,0,1,1,0,0,1,0,0.09,0.00,0.09,0.09,0.09,Matches,14caf5c9
+Max Gradel,ci CIV,MF,27,14,11,891,9.9,1,2,3,1,0,0,1,0,0.10,0.20,0.30,0.10,0.30,Matches,c5a500ca
+Sylvain Distin,fr FRA,DF,37,12,9,843,9.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,002d06bb
+Callum Wilson,eng ENG,FWMF,23,13,9,771,8.6,5,0,5,4,1,1,0,0,0.58,0.00,0.58,0.47,0.47,Matches,c596fcb0
+Eunan O'Kane,ie IRL,MF,25,16,6,756,8.4,0,1,1,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12,Matches,b7f8b1fc
+Glenn Murray,eng ENG,FW,31,19,6,676,7.5,3,0,3,3,0,1,2,0,0.40,0.00,0.40,0.40,0.40,Matches,f2f29dda
+Adam Federici,au AUS,GK,30,6,6,495,5.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e5ea8be7
+Lewis Grabban,eng ENG,FW,27,15,4,577,6.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1a857282
+Lee Tomlin,eng ENG,MF,26,6,3,290,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ef1739b9
+Yann Kermorgant,fr FRA,FW,33,7,0,130,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0172d6cc
+Juan Iturbe,py PAR,FWMF,22,2,0,57,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2c0fbaf5
+Ryan Allsop,eng ENG,GK,23,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,af615123
+Tokelo Rantie,za RSA,FW,24,3,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7ef25942
+Shaun MacDonald,wls WAL,MF,27,3,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fdcff59c
+Tyrone Mings,eng ENG,DF,22,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8397a50c
+Joe Bennett,eng ENG,DFMF,25,0,0,,,,,,,,,,,,,,,,Matches,dc936144
+Matt Butcher,eng ENG,MF,18,0,0,,,,,,,,,,,,,,,,Matches,b170cfa2
+Baily Cargill,eng ENG,DF,20,0,0,,,,,,,,,,,,,,,,Matches,6dbe8f69
+Jordan Holmes,au AUS,GK,18,0,0,,,,,,,,,,,,,,,,Matches,5aab459c
+Corey Jordan,eng ENG,DFMF,16,0,0,,,,,,,,,,,,,,,,Matches,b85d8979
+Rhoys Wiggins,wls WAL,DF,27,0,0,,,,,,,,,,,,,,,,Matches,4c4166ca
+Squad Total,,,27.7,38,418,3420,38.0,43,28,71,40,3,4,0,0,1.13,0.74,1.87,1.05,1.79,,-9999
+Opponent Total,,,26.7,38,418,3420,38.0,67,47,114,63,4,6,56,5,1.76,1.24,3.00,1.66,2.89,,-9999

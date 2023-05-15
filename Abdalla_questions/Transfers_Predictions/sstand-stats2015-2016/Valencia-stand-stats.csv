@@ -1,0 +1,40 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Daniel Parejo,es ESP,MF,26,33,30,2734,30.4,8,5,13,6,2,2,8,0,0.26,0.16,0.43,0.20,0.36,Matches,7460ca0d
+Shkodran Mustafi,de GER,DF,23,30,30,2681,29.8,2,0,2,2,0,0,12,0,0.07,0.00,0.07,0.07,0.07,Matches,3f2d59fe
+André Gomes,pt POR,MF,22,30,27,2375,26.4,2,3,5,2,0,0,10,0,0.08,0.11,0.19,0.08,0.19,Matches,1961b2aa
+Paco Alcácer,es ESP,FW,21,34,25,2419,26.9,13,6,19,11,2,3,2,0,0.48,0.22,0.71,0.41,0.63,Matches,a7a9d95a
+João Cancelo,pt POR,DFFW,21,28,25,2118,23.5,1,4,5,1,0,0,7,1,0.04,0.17,0.21,0.04,0.21,Matches,bd6351cd
+Javi Fuego,es ESP,MF,31,26,23,2044,22.7,0,0,0,0,0,0,12,1,0.00,0.00,0.00,0.00,0.00,Matches,2e8fc160
+Aymen Abdennour,tn TUN,DF,25,22,22,1851,20.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,2f798b41
+Antonio Barragán,es ESP,DF,28,24,19,1658,18.4,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,487d9b09
+Santi Mina,es ESP,FWMF,19,27,19,1652,18.4,4,1,5,4,0,0,2,0,0.22,0.05,0.27,0.22,0.27,Matches,0b90bb97
+Jaume Doménech,es ESP,GK,24,17,17,1530,17.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c9cb972b
+Aderlan Santos,br BRA,DF,26,17,17,1519,16.9,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,847e4cd8
+Danilo Barbosa,br BRA,MF,19,19,16,1362,15.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0557ff4f
+Enzo Pérez,ar ARG,MF,29,20,16,1258,14.0,0,0,0,0,0,0,10,0,0.00,0.00,0.00,0.00,0.00,Matches,6d27cfc2
+José Luis Gayà,es ESP,DF,20,20,15,1442,16.0,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,b05e2dbd
+Rodrigo,es ESP,FWMF,24,25,15,1365,15.2,2,3,5,2,0,0,1,1,0.13,0.20,0.33,0.13,0.33,Matches,1fb1c435
+Guilherme Siqueira,br BRA,DF,29,14,14,1093,12.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,3770a135
+Sofiane Feghouli,dz ALG,FWMF,25,21,13,1262,14.0,1,1,2,1,0,0,3,0,0.07,0.07,0.14,0.07,0.14,Matches,691f64f5
+Diego Alves,br BRA,GK,30,13,13,1170,13.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,12421a7c
+Álvaro Negredo,es ESP,FW,29,25,12,1157,12.9,5,1,6,5,0,0,0,0,0.39,0.08,0.47,0.39,0.47,Matches,63b0ca6b
+Rúben Vezo,pt POR,DF,21,15,10,1087,12.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,c67cd65c
+Pablo Piatti,ar ARG,FWMF,26,21,9,793,8.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,48e89655
+Mathew Ryan,au AUS,GK,23,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4535e4bb
+Rodrigo De Paul,ar ARG,MFFW,21,9,6,521,5.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,162efffd
+Lucas Orbán,ar ARG,DF,26,7,6,521,5.8,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,8ff1d70e
+Denis Cheryshev,ru RUS,MFFW,24,7,6,478,5.3,3,0,3,3,0,0,2,0,0.56,0.00,0.56,0.56,0.56,Matches,0ac94a23
+Zakaria Bakkali,be BEL,MFFW,19,16,4,566,6.3,1,3,4,1,0,0,1,0,0.16,0.48,0.64,0.16,0.64,Matches,ec3efd7f
+Wilfried Zahibo,cf CTA,MF,21,2,2,134,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,784ec3de
+Sito,es ESP,MF,18,1,0,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,59504479
+Fran Villalba,es ESP,MF,17,1,0,4,0.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0d2603b5
+Tropi,es ESP,MF,20,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,50f1ed37
+Diego Caballo Alonso,es ESP,DF,21,0,0,,,,,,,,,,,,,,,,Matches,2f4848f5
+Ibrahim Diallo,ml MLI,DF,18,0,0,,,,,,,,,,,,,,,,Matches,26cab774
+Nacho Gil,es ESP,MF,19,0,0,,,,,,,,,,,,,,,,Matches,87ec1a2a
+Toni Lato,es ESP,DF,17,0,0,,,,,,,,,,,,,,,,Matches,8e088e04
+Rafa Mir,es ESP,FW,18,0,0,,,,,,,,,,,,,,,,Matches,bbf5c11b
+Carlos Soler,es ESP,MF,18,0,0,,,,,,,,,,,,,,,,Matches,fed17f5a
+Yoel,es ESP,GK,26,0,0,,,,,,,,,,,,,,,,Matches,61bb7498
+Squad Total,,,24.7,38,419,3420,38.0,42,27,69,38,4,5,110,7,1.11,0.71,1.82,1.00,1.71,,-9999
+Opponent Total,,,26.7,38,419,3420,38.0,47,37,84,45,2,4,95,3,1.24,0.97,2.21,1.18,2.16,,-9999

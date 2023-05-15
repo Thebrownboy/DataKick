@@ -1,0 +1,36 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Sergio Rico,es ESP,GK,22,35,35,3150,35.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5f0241b2
+Steven Nzonzi,fr FRA,MF,27,35,34,3066,34.1,2,3,5,2,0,0,6,0,0.06,0.09,0.15,0.06,0.15,Matches,c7526c18
+Mariano,br BRA,DFMF,30,31,29,2643,29.4,0,2,2,0,0,0,10,0,0.00,0.07,0.07,0.00,0.07,Matches,e26f559f
+Nicolás Pareja,ar ARG,DF,32,27,27,2160,24.0,1,1,2,1,0,0,6,1,0.04,0.04,0.08,0.04,0.08,Matches,a92669f6
+Gabriel Mercado,ar ARG,DF,29,29,26,2184,24.3,3,1,4,3,0,0,10,0,0.12,0.04,0.16,0.12,0.16,Matches,bf97c188
+Franco Vázquez,ar ARG,MF,27,30,26,2076,23.1,7,4,11,7,0,0,8,0,0.30,0.17,0.48,0.30,0.48,Matches,467bae22
+Vitolo,es ESP,MFFW,26,30,25,2332,25.9,6,5,11,6,0,0,6,1,0.23,0.19,0.42,0.23,0.42,Matches,db750822
+Sergio Escudero,es ESP,DFMF,26,26,25,2282,25.4,0,3,3,0,0,0,7,0,0.00,0.12,0.12,0.00,0.12,Matches,b0616e3d
+Pablo Sarabia,es ESP,MF,24,34,22,2142,23.8,8,8,16,7,1,1,10,0,0.34,0.34,0.67,0.29,0.63,Matches,9744ff80
+Samir Nasri,fr FRA,MFFW,29,23,22,1840,20.4,2,4,6,2,0,1,7,0,0.10,0.20,0.29,0.10,0.29,Matches,165bed61
+Adil Rami,fr FRA,DF,30,21,21,1782,19.8,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,8dbff17c
+Wissam Ben Yedder,fr FRA,FW,25,31,20,1661,18.5,11,5,16,10,1,1,0,0,0.60,0.27,0.87,0.54,0.81,Matches,942b4f90
+Clément Lenglet,fr FRA,DF,21,17,15,1358,15.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,4f28a6ff
+Joaquín Correa,ar ARG,MFFW,21,26,15,1313,14.6,4,0,4,4,0,0,6,0,0.27,0.00,0.27,0.27,0.27,Matches,45b9b619
+Luciano Vietto,ar ARG,FW,22,21,14,1310,14.6,6,3,9,6,0,0,3,0,0.41,0.21,0.62,0.41,0.62,Matches,2513a588
+Matías Kranevitter,ar ARG,MF,23,21,14,1285,14.3,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,314bdac5
+Vicente Iborra,es ESP,MF,28,31,12,1481,16.5,7,2,9,6,1,1,9,0,0.43,0.12,0.55,0.36,0.49,Matches,ad1ffcfd
+Stevan Jovetić,me MNE,FW,26,21,12,1206,13.4,6,4,10,6,0,1,4,0,0.45,0.30,0.75,0.45,0.75,Matches,f36c432f
+Daniel Carriço,pt POR,DF,27,6,6,452,5.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,e1deea75
+Ganso,br BRA,MF,26,10,5,486,5.4,2,1,3,2,0,0,0,0,0.37,0.19,0.56,0.37,0.56,Matches,23593121
+Timothée Kolodziejczak,fr FRA,DF,24,5,3,330,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ab096c6f
+Hiroshi Kiyotake,jp JPN,MFFW,26,4,3,285,3.2,1,2,3,1,0,0,0,0,0.32,0.63,0.95,0.32,0.95,Matches,0dba1f3e
+Salvatore Sirigu,it ITA,GK,29,2,2,177,2.0,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,10dc46f0
+Michael Krohn-Dehli,dk DEN,MFFW,33,2,2,170,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1c8dc17d
+Walter Montoya,ar ARG,FW,23,4,1,111,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,39e9c09a
+David Soria,es ESP,GK,23,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8f8c6934
+Carlos Fernández,es ESP,FW,20,3,1,89,1.0,1,0,1,1,0,0,0,0,1.01,0.00,1.01,1.01,1.01,Matches,e08647d6
+Diego González,es ESP,DF,21,3,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4ac7608e
+Churripi,es ESP,GK,22,0,0,,,,,,,,,,,,,,,,Matches,81a606fc
+Yevhen Konoplyanka,ua UKR,FWMF,26,0,0,,,,,,,,,,,,,,,,Matches,d9a5d930
+José Mena Rodríguez,es ESP,MF,18,0,0,,,,,,,,,,,,,,,,Matches,0af4b238
+Álex Muñoz,es ESP,DF,22,0,0,,,,,,,,,,,,,,,,Matches,853f211e
+Alejandro Pozo Pozo,es ESP,DFMF,17,0,0,,,,,,,,,,,,,,,,Matches,3c16d927
+Squad Total,,,26.8,38,418,3420,38.0,67,48,115,64,3,5,107,4,1.76,1.26,3.03,1.68,2.95,,-9999
+Opponent Total,,,26.5,38,418,3420,38.0,48,29,77,44,4,5,115,6,1.26,0.76,2.03,1.16,1.92,,-9999

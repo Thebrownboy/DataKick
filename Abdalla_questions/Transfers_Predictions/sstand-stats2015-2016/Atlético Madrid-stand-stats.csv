@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Jan Oblak,si SVN,GK,22,38,38,3420,38.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ee8508c0
+Antoine Griezmann,fr FRA,FW,24,38,36,3043,33.8,22,4,26,21,1,2,5,0,0.65,0.12,0.77,0.62,0.74,Matches,df69b544
+Juanfran,es ESP,DF,30,35,34,3030,33.7,1,1,2,1,0,0,6,0,0.03,0.03,0.06,0.03,0.06,Matches,cfd8d664
+Koke,es ESP,MF,23,35,34,2967,33.0,5,12,17,5,0,0,4,0,0.15,0.36,0.52,0.15,0.52,Matches,55126f3b
+Gabi,es ESP,MF,32,35,34,2877,32.0,1,3,4,1,0,0,14,1,0.03,0.09,0.13,0.03,0.13,Matches,65d750b5
+Filipe Luís,br BRA,DF,29,32,32,2833,31.5,1,4,5,1,0,0,11,1,0.03,0.13,0.16,0.03,0.16,Matches,e4ed2628
+Diego Godín,uy URU,DF,29,31,31,2648,29.4,1,1,2,1,0,0,7,1,0.03,0.03,0.07,0.03,0.07,Matches,fc4f85b1
+José María Giménez,uy URU,DF,20,27,27,2430,27.0,1,1,2,1,0,0,8,0,0.04,0.04,0.07,0.04,0.07,Matches,f0da930c
+Saúl Ñíguez,es ESP,MF,20,31,26,2329,25.9,4,2,6,4,0,0,1,0,0.15,0.08,0.23,0.15,0.23,Matches,c14bc029
+Fernando Torres,es ESP,FW,31,30,17,1691,18.8,11,4,15,11,0,0,4,0,0.59,0.21,0.80,0.59,0.80,Matches,bdf7b97d
+Yannick Carrasco,be BEL,MFFW,21,29,16,1496,16.6,4,1,5,4,0,0,5,0,0.24,0.06,0.30,0.24,0.30,Matches,de39485a
+Tiago Mendes,pt POR,MF,34,14,12,1052,11.7,1,1,2,1,0,0,4,0,0.09,0.09,0.17,0.09,0.17,Matches,5e0f7b89
+Luciano Vietto,ar ARG,FW,21,19,12,960,10.7,1,3,4,1,0,0,3,0,0.09,0.28,0.37,0.09,0.37,Matches,2513a588
+Augusto Fernández,ar ARG,MF,29,13,11,852,9.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,78c40e94
+Stefan Savić,me MNE,DF,24,12,10,927,10.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f6ac68c1
+Óliver Torres,es ESP,MF,20,21,9,818,9.1,0,2,2,0,0,0,2,0,0.00,0.22,0.22,0.00,0.22,Matches,58a9a4d9
+Ángel Correa,ar ARG,MFFW,20,26,8,958,10.6,5,4,9,5,0,0,7,0,0.47,0.38,0.85,0.47,0.85,Matches,01eb744d
+Lucas Hernández,fr FRA,DF,19,10,8,836,9.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c3ee18ef
+Jackson Martínez,co COL,FW,28,15,8,657,7.3,2,3,5,2,0,0,0,0,0.27,0.41,0.68,0.27,0.68,Matches,89fbacc3
+Jesús Gámez,es ESP,DF,30,10,7,728,8.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,bd1d1cbb
+Thomas Partey,gh GHA,MF,22,13,3,441,4.9,2,1,3,2,0,0,3,0,0.41,0.20,0.61,0.41,0.61,Matches,529f49ab
+Matías Kranevitter,ar ARG,MF,22,8,3,329,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,314bdac5
+Nacho Monsalve,es ESP,DF,21,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8246c61e
+Guilherme Siqueira,br BRA,DF,29,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,3770a135
+Raúl García,es ESP,FWMF,29,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b418dbd4
+Amath,sn SEN,FWMF,19,0,0,,,,,,,,,,,,,,,,Matches,f3b1d9a2
+Miguel Ángel Moyá,es ESP,GK,31,0,0,,,,,,,,,,,,,,,,Matches,011d8c56
+Theo Hernández,fr FRA,DF,17,0,0,,,,,,,,,,,,,,,,Matches,d4c9725f
+Samuel Villa,es ESP,MF,20,0,0,,,,,,,,,,,,,,,,Matches,25a41cbb
+Squad Total,,,25.9,38,418,3420,38.0,62,47,109,61,1,2,94,3,1.63,1.24,2.87,1.61,2.84,,-9999
+Opponent Total,,,26.7,38,418,3420,38.0,18,12,30,17,1,1,97,4,0.47,0.32,0.79,0.45,0.76,,-9999
