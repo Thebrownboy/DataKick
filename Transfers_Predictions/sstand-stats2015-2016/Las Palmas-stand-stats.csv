@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Jonathan Viera,es ESP,MFFW,25,36,36,3112,34.6,10,8,18,6,4,5,4,0,0.29,0.23,0.52,0.17,0.40,Matches,efa708aa
+Roque Mesa,es ESP,MF,26,34,34,2825,31.4,1,2,3,1,0,0,12,0,0.03,0.06,0.10,0.03,0.10,Matches,7c4243d4
+Javi Varas,es ESP,GK,32,31,31,2710,30.1,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,6db3da37
+Aythami Artiles,es ESP,DF,29,31,30,2641,29.3,0,1,1,0,0,0,13,2,0.00,0.03,0.03,0.00,0.03,Matches,01ae64cd
+Pedro Bigas,es ESP,DF,24,27,26,2353,26.1,3,0,3,3,0,0,5,0,0.11,0.00,0.11,0.11,0.11,Matches,697295b1
+Tana,es ESP,MF,24,27,26,2113,23.5,5,4,9,5,0,0,2,0,0.21,0.17,0.38,0.21,0.38,Matches,ef345601
+Dani Castellano,es ESP,DF,27,27,25,2245,24.9,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,21d4e122
+David Simón,es ESP,DF,26,27,24,2263,25.1,1,2,3,1,0,0,7,0,0.04,0.08,0.12,0.04,0.12,Matches,251336da
+Sergio Araujo,ar ARG,FW,23,30,20,1819,20.2,5,2,7,5,0,0,4,0,0.25,0.10,0.35,0.25,0.35,Matches,080ac8d8
+Willian José,br BRA,FW,23,30,19,1733,19.3,9,1,10,9,0,0,6,0,0.47,0.05,0.52,0.47,0.52,Matches,d87e2cae
+David García,es ESP,DF,33,19,18,1607,17.9,2,1,3,2,0,0,2,0,0.11,0.06,0.17,0.11,0.17,Matches,1250086e
+Javier Garrido,es ESP,DF,30,18,18,1575,17.5,0,1,1,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches,3b142ce5
+Nabil El Zhar,ma MAR,MF,28,30,17,1707,19.0,2,4,6,2,0,0,4,0,0.11,0.21,0.32,0.11,0.32,Matches,37f96552
+Vicente Gómez,es ESP,MF,26,21,16,1463,16.3,1,1,2,1,0,0,4,0,0.06,0.06,0.12,0.06,0.12,Matches,cefb32b1
+Momo,es ESP,MF,33,23,15,1384,15.4,0,3,3,0,0,0,3,0,0.00,0.20,0.20,0.00,0.20,Matches,9857e65d
+Hernán,es ESP,MFDF,24,18,11,928,10.3,1,0,1,1,0,0,4,0,0.10,0.00,0.10,0.10,0.10,Matches,8c83efb6
+Wakaso,gh GHA,MF,25,20,10,931,10.3,1,0,1,1,0,0,11,0,0.10,0.00,0.10,0.10,0.10,Matches,999908af
+Mauricio Lemos,uy URU,DF,19,10,8,736,8.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,dbe5a587
+Raúl Lizoain,es ESP,GK,24,8,7,708,7.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f69e9eee
+Emmanuel Culio,ar ARG,MF,31,12,6,560,6.2,0,1,1,0,0,0,2,1,0.00,0.16,0.16,0.00,0.16,Matches,170eb35b
+Antolín Alcaraz,py PAR,DF,33,6,6,540,6.0,1,0,1,1,0,0,2,0,0.17,0.00,0.17,0.17,0.17,Matches,cee38e27
+Ángel Montoro,es ESP,MF,27,9,5,435,4.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,719384c1
+Nili,es ESP,MFFW,21,8,4,317,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6f1cce9a
+Juan Carlos Valerón,es ESP,MF,40,13,3,383,4.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,71e8d6b0
+Nauzet Alemán,es ESP,MF,30,10,2,248,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4cf8242b
+Javi Castellano,es ESP,MF,27,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,dac68523
+Ángel López,es ESP,DFMF,34,3,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,93cdc601
+Jefté Betancor,es ESP,FW,22,0,0,,,,,,,,,,,,,,,,Matches,f88c9890
+Matías Dumpiérrez,es ESP,MF,22,0,0,,,,,,,,,,,,,,,,Matches,f31f689e
+Carlos González,es ESP,FW,18,0,0,,,,,,,,,,,,,,,,Matches,8c6b3d5e
+Dani Lorenzo,es ESP,GK,22,0,0,,,,,,,,,,,,,,,,Matches,4ed19997
+Asdrúbal Padrón,es ESP,FWMF,24,0,0,,,,,,,,,,,,,,,,Matches,1719aa30
+Squad Total,,,27.6,38,418,3420,38.0,42,31,73,38,4,5,100,4,1.11,0.82,1.92,1.00,1.82,,-9999
+Opponent Total,,,26.6,38,418,3420,38.0,52,37,89,49,3,4,108,5,1.37,0.97,2.34,1.29,2.26,,-9999

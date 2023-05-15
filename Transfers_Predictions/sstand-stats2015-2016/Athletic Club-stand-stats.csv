@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Gorka Iraizoz,es ESP,GK,34,37,37,3243,36.0,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,26f2473f
+Mikel Balenziaga,es ESP,DF,27,34,33,2905,32.3,0,3,3,0,0,0,6,0,0.00,0.09,0.09,0.00,0.09,Matches,1fe67e86
+Óscar de Marcos,es ESP,DFMF,26,34,33,2884,32.0,1,3,4,1,0,0,6,0,0.03,0.09,0.12,0.03,0.12,Matches,9f323c71
+Beñat Etxebarria,es ESP,MF,28,36,32,2894,32.2,1,6,7,1,0,0,8,0,0.03,0.19,0.22,0.03,0.22,Matches,b037bd4f
+Aritz Aduriz,es ESP,FW,34,34,30,2776,30.8,20,6,26,17,3,5,9,0,0.65,0.19,0.84,0.55,0.75,Matches,293211e1
+Mikel San José,es ESP,MFDF,26,34,30,2690,29.9,2,3,5,2,0,0,6,1,0.07,0.10,0.17,0.07,0.17,Matches,003a5c72
+Xabier Etxeita,es ESP,DF,27,30,28,2485,27.6,0,1,1,0,0,0,5,0,0.00,0.04,0.04,0.00,0.04,Matches,4a895384
+Raúl García,es ESP,MF,29,30,27,2370,26.3,7,6,13,7,0,0,10,0,0.27,0.23,0.49,0.27,0.49,Matches,b418dbd4
+Aymeric Laporte,es ESP,DF,21,26,25,2211,24.6,3,1,4,3,0,0,9,2,0.12,0.04,0.16,0.12,0.16,Matches,119b9a8e
+Markel Susaeta,es ESP,MF,27,28,22,1918,21.3,3,7,10,3,0,0,3,0,0.14,0.33,0.47,0.14,0.47,Matches,6fd1ba62
+Iñaki Williams,gh GHA,MF,21,25,21,1622,18.0,8,3,11,8,0,0,4,1,0.44,0.17,0.61,0.44,0.61,Matches,6a99e0b1
+Eneko Bóveda,es ESP,DF,26,23,15,1468,16.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1771f2c1
+Sabin Merino,es ESP,MFFW,23,22,13,1131,12.6,5,0,5,5,0,0,1,0,0.40,0.00,0.40,0.40,0.40,Matches,1d5f96d9
+Iker Muniain,es ESP,MF,22,20,13,1017,11.3,2,0,2,2,0,0,2,0,0.18,0.00,0.18,0.18,0.18,Matches,c05dfb74
+Iñigo Lekue,es ESP,DFMF,22,20,12,1159,12.9,1,0,1,1,0,0,2,0,0.08,0.00,0.08,0.08,0.08,Matches,59b7d823
+Carlos Gurpegui,es ESP,DF,34,15,12,1143,12.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,6920be59
+Javier Eraso,es ESP,MF,25,16,8,783,8.7,2,1,3,2,0,0,2,0,0.23,0.11,0.34,0.23,0.34,Matches,aec0fb6f
+Mikel Rico,es ESP,MF,30,17,8,698,7.8,1,1,2,1,0,0,2,1,0.13,0.13,0.26,0.13,0.26,Matches,def69cd0
+Ander Iturraspe,es ESP,MF,26,16,7,701,7.8,0,1,1,0,0,0,1,0,0.00,0.13,0.13,0.00,0.13,Matches,6dce77a5
+Gorka Elustondo,es ESP,MFDF,28,11,4,471,5.2,1,0,1,1,0,0,1,0,0.19,0.00,0.19,0.19,0.19,Matches,7b309e55
+Borja Viguera,es ESP,FW,28,9,3,294,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d906a703
+Ager Aketxe,es ESP,MF,21,3,2,185,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c5eaff5c
+Iago Herrerín,es ESP,GK,27,2,1,175,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9109185e
+Ibai Gómez,es ESP,MF,25,5,1,115,1.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,9d2a3d5f
+Enrique Sola,es ESP,FW,29,5,1,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bef2e50e
+Álex Remiro,es ESP,GK,20,0,0,,,,,,,,,,,,,,,,Matches,374ee424
+Squad Total,,,27.7,38,418,3420,38.0,57,42,99,54,3,5,86,6,1.50,1.11,2.61,1.42,2.53,,-9999
+Opponent Total,,,26.3,38,418,3420,38.0,43,30,73,37,6,7,117,7,1.13,0.79,1.92,0.97,1.76,,-9999

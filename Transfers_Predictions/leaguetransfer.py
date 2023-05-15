@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 import pandas as pd 
 import numpy as np 
 
-season_link = "https://www.transfermarkt.com/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2017&s_w=s&leihe=0&intern=0&intern=1"
+season_link = "https://www.transfermarkt.com/laliga/transfers/wettbewerb/ES1/plus/?saison_id=2016&s_w=s&leihe=0&intern=0&intern=1"
 browser= webdriver.Chrome(ChromeDriverManager().install())
 
 
@@ -91,5 +91,5 @@ for i in range (20):
 
 # # df.to_csv("trans-temp.csv")
 
-pd.DataFrame(data_frame).to_csv("transfers-2017-2018.csv")
+pd.DataFrame(data_frame).to_csv("transfers-2016-2017.csv")
 

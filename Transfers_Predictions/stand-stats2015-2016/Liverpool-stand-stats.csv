@@ -1,0 +1,40 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Simon Mignolet,be BEL,GK,27,34,34,3060,34.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,d436eb94
+Nathaniel Clyne,eng ENG,DF,24,33,33,2970,33.0,1,0,1,1,0,0,6,0,0.03,0.00,0.03,0.03,0.03,Matches,0442183b
+Alberto Moreno,es ESP,DF,23,32,28,2548,28.3,1,4,5,1,0,0,3,0,0.04,0.14,0.18,0.04,0.18,Matches,11b9265b
+Emre Can,de GER,MFDF,21,30,28,2491,27.7,1,0,1,1,0,0,9,0,0.04,0.00,0.04,0.04,0.04,Matches,a65ce836
+James Milner,eng ENG,MFFW,29,28,28,2409,26.8,5,11,16,4,1,1,10,1,0.19,0.41,0.60,0.15,0.56,Matches,2f90f6b8
+Philippe Coutinho,br BRA,MFFW,23,26,24,1996,22.2,8,5,13,8,0,0,3,1,0.36,0.23,0.59,0.36,0.59,Matches,0ef89a37
+Roberto Firmino,br BRA,FWMF,23,31,24,1972,21.9,10,7,17,10,0,0,1,0,0.46,0.32,0.78,0.46,0.78,Matches,4c370d81
+Adam Lallana,eng ENG,MFFW,27,30,23,2107,23.4,4,6,10,4,0,0,2,0,0.17,0.26,0.43,0.17,0.43,Matches,99813635
+Dejan Lovren,hr CRO,DF,26,24,22,1896,21.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1a2935f6
+Lucas Leiva,br BRA,MFDF,28,27,21,1953,21.7,0,1,1,0,0,0,8,0,0.00,0.05,0.05,0.00,0.05,Matches,4c78b5ed
+Martin Škrtel,sk SVK,DF,30,22,21,1885,20.9,1,0,1,1,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches,defb905a
+Mamadou Sakho,fr FRA,DF,25,22,21,1854,20.6,1,0,1,1,0,0,1,0,0.05,0.00,0.05,0.05,0.05,Matches,87935cf3
+Jordan Henderson,eng ENG,MF,25,17,15,1290,14.3,2,3,5,2,0,0,1,0,0.14,0.21,0.35,0.14,0.35,Matches,935e6b8f
+Christian Benteke,be BEL,FW,24,29,14,1529,17.0,9,3,12,8,1,1,2,0,0.53,0.18,0.71,0.47,0.65,Matches,ab070c55
+Jordon Ibe,eng ENG,MFFW,19,27,12,1178,13.1,1,2,3,1,0,0,0,0,0.08,0.15,0.23,0.08,0.23,Matches,9f736ed2
+Daniel Sturridge,eng ENG,FW,25,14,11,978,10.9,8,1,9,8,0,0,0,0,0.74,0.09,0.83,0.74,0.83,Matches,1b7ec703
+Kolo Touré,ci CIV,DF,34,14,9,858,9.5,1,0,1,1,0,0,1,0,0.10,0.00,0.10,0.10,0.10,Matches,3301c9f4
+Joe Allen,wls WAL,MF,25,19,8,735,8.2,2,1,3,2,0,0,0,0,0.24,0.12,0.37,0.24,0.37,Matches,9feb8f24
+Divock Origi,be BEL,FW,20,16,7,670,7.4,5,1,6,5,0,0,0,0,0.67,0.13,0.81,0.67,0.81,Matches,43a166b4
+Kevin Stewart,jm JAM,MF,21,7,6,565,6.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ff674795
+Joe Gomez,eng ENG,DFMF,18,5,5,437,4.9,0,1,1,0,0,0,3,0,0.00,0.21,0.21,0.00,0.21,Matches,7a11550b
+Jon Flanagan,eng ENG,DF,22,5,5,420,4.7,0,1,1,0,0,0,1,0,0.00,0.21,0.21,0.00,0.21,Matches,f2428fd4
+Sheyi Ojo,eng ENG,MFFW,18,8,5,397,4.4,0,3,3,0,0,0,0,0,0.00,0.68,0.68,0.00,0.68,Matches,7b9a86e6
+Danny Ings,eng ENG,FW,23,6,3,340,3.8,2,0,2,2,0,0,1,0,0.53,0.00,0.53,0.53,0.53,Matches,07802f7f
+Brad Smith,au AUS,DF,21,4,3,286,3.2,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,c76c717c
+Ádám Bogdán,hu HUN,GK,27,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,56f99ec7
+Danny Ward,wls WAL,GK,22,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d3ce0e89
+Connor Randall,eng ENG,DF,19,3,2,163,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,412e1445
+Cameron Brannagan,eng ENG,MF,19,3,1,114,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9220e731
+Pedro Chirivella,es ESP,MF,18,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,68a26d51
+Jordan Rossiter,eng ENG,MF,18,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0e459095
+Sergi Canós,es ESP,DFFW,18,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1137759d
+Steven Caulker,sl SLE,DF,23,3,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2592d9b5
+João Carlos Teixeira,pt POR,MF,22,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,601299e9
+Ryan Fulton,sct SCO,GK,19,0,0,,,,,,,,,,,,,,,,Matches,f2c7b11d
+Tiago Ilori,pt POR,DF,22,0,0,,,,,,,,,,,,,,,,Matches,a64b4786
+Jerome Sinclair,eng ENG,FW,18,0,0,,,,,,,,,,,,,,,,Matches,1695c659
+Squad Total,,,25.2,38,418,3420,38.0,62,50,112,60,2,2,0,0,1.63,1.32,2.95,1.58,2.89,,-9999
+Opponent Total,,,27.1,38,418,3420,38.0,49,33,82,47,2,3,50,3,1.29,0.87,2.16,1.24,2.11,,-9999

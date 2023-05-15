@@ -1,0 +1,37 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Joe Hart,eng ENG,GK,28,35,35,3109,34.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cb4f24c6
+Fernandinho,br BRA,MF,30,33,31,2729,30.3,2,2,4,2,0,0,8,0,0.07,0.07,0.13,0.07,0.13,Matches,101da2b5
+Nicolás Otamendi,ar ARG,DF,27,30,30,2671,29.7,1,0,1,1,0,0,9,0,0.03,0.00,0.03,0.03,0.03,Matches,0d267745
+Sergio Agüero,ar ARG,FW,27,30,29,2360,26.2,24,2,26,20,4,5,1,0,0.92,0.08,0.99,0.76,0.84,Matches,4d034881
+Yaya Touré,ci CIV,MF,32,32,28,2325,25.8,6,5,11,5,1,1,3,0,0.23,0.19,0.43,0.19,0.39,Matches,c204f844
+Bacary Sagna,fr FRA,DF,32,28,27,2448,27.2,0,3,3,0,0,0,4,0,0.00,0.11,0.11,0.00,0.11,Matches,6ef56efd
+Aleksandar Kolarov,rs SRB,DF,29,29,25,2283,25.4,3,3,6,3,0,1,3,0,0.12,0.12,0.24,0.12,0.24,Matches,eda40760
+Jesús Navas,es ESP,MF,29,34,24,2282,25.4,0,7,7,0,0,0,1,0,0.00,0.28,0.28,0.00,0.28,Matches,3f10bd22
+Eliaquim Mangala,fr FRA,DF,24,23,23,2009,22.3,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches,f520049f
+Raheem Sterling,eng ENG,MF,20,31,23,1920,21.3,6,2,8,6,0,0,1,0,0.28,0.09,0.37,0.28,0.37,Matches,b400bde0
+Kevin De Bruyne,be BEL,MF,24,25,22,2002,22.2,7,9,16,7,0,0,2,0,0.31,0.40,0.72,0.31,0.72,Matches,e46012d4
+David Silva,es ESP,MF,29,24,22,1791,19.9,2,11,13,2,0,0,1,0,0.10,0.55,0.65,0.10,0.65,Matches,e2716bd0
+Fernando,br BRA,MF,28,24,17,1715,19.1,2,0,2,2,0,0,4,0,0.10,0.00,0.10,0.10,0.10,Matches,41f32541
+Wilfried Bony,ci CIV,FW,26,26,13,1226,13.6,4,3,7,4,0,1,1,0,0.29,0.22,0.51,0.29,0.51,Matches,61abe9b6
+Vincent Kompany,be BEL,DF,29,14,13,1179,13.1,2,0,2,2,0,0,5,0,0.15,0.00,0.15,0.15,0.15,Matches,d2bff301
+Gaël Clichy,fr FRA,DF,30,14,12,1087,12.1,0,1,1,0,0,0,0,0,0.00,0.08,0.08,0.00,0.08,Matches,450ad405
+Pablo Zabaleta,ar ARG,DF,30,13,12,1062,11.8,0,1,1,0,0,0,3,0,0.00,0.08,0.08,0.00,0.08,Matches,6813ac34
+Martín Demichelis,ar ARG,DF,34,20,10,1021,11.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,e9c7102a
+Fabian Delph,eng ENG,MF,25,17,8,753,8.4,2,0,2,2,0,0,0,0,0.24,0.00,0.24,0.24,0.24,Matches,111c3236
+Kelechi Iheanacho,ng NGA,FWMF,18,26,7,766,8.5,8,1,9,8,0,0,1,0,0.94,0.12,1.06,0.94,1.06,Matches,c92e1a31
+Samir Nasri,fr FRA,MFFW,28,12,4,541,6.0,2,2,4,2,0,0,3,0,0.33,0.33,0.67,0.33,0.67,Matches,165bed61
+Willy Caballero,ar ARG,GK,33,4,3,311,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a179d516
+Bersant Celina,xk KVX,FWMF,18,1,0,14,0.2,0,1,1,0,0,0,0,0,0.00,6.43,6.43,0.00,6.43,Matches,3043d33f
+Manu García,es ESP,FWMF,17,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6ed1a2a2
+Patrick Roberts,eng ENG,FWMF,18,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,59d93937
+Angeliño,es ESP,DFMF,18,0,0,,,,,,,,,,,,,,,,Matches,30941e96
+Brandon Barker,eng ENG,FWMF,18,0,0,,,,,,,,,,,,,,,,Matches,3098c0df
+Jason Denayer,be BEL,DF,20,0,0,,,,,,,,,,,,,,,,Matches,47af88b8
+George Evans,eng ENG,DFMF,20,0,0,,,,,,,,,,,,,,,,Matches,40302e12
+Aleix García,es ESP,MF,18,0,0,,,,,,,,,,,,,,,,Matches,a10361d2
+James Horsfield,eng ENG,DFMF,19,0,0,,,,,,,,,,,,,,,,Matches,95b9d647
+Cameron Humphreys,eng ENG,DF,16,0,0,,,,,,,,,,,,,,,,Matches,28e65539
+Pablo Maffeo,es ESP,DFMF,18,0,0,,,,,,,,,,,,,,,,Matches,5db04597
+Richard Wright,eng ENG,GK,37,0,0,,,,,,,,,,,,,,,,Matches,d9e2e2ae
+Squad Total,,,28.3,38,418,3420,38.0,71,53,124,66,5,8,0,0,1.87,1.39,3.26,1.74,3.13,,-9999
+Opponent Total,,,27.0,38,418,3420,38.0,39,31,70,38,1,1,58,2,1.03,0.82,1.84,1.00,1.82,,-9999

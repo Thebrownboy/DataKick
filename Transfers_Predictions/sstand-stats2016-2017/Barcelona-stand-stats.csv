@@ -1,0 +1,36 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+Marc-André ter Stegen,de GER,GK,24,36,36,3240,36.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,6f51e382
+Luis Suárez,uy URU,FW,29,35,34,2857,31.7,28,12,40,28,0,0,8,0,0.88,0.38,1.26,0.88,1.26,Matches,a6154613
+Sergio Busquets,es ESP,MF,28,33,33,2687,29.9,0,3,3,0,0,0,9,0,0.00,0.10,0.10,0.00,0.10,Matches,5ab0ea87
+Lionel Messi,ar ARG,FW,29,34,32,2830,31.4,37,9,46,31,6,7,6,0,1.18,0.29,1.46,0.99,1.27,Matches,d70ce98e
+Neymar,br BRA,FW,24,30,30,2649,29.4,13,10,23,12,1,1,7,1,0.44,0.34,0.78,0.41,0.75,Matches,69384e5d
+Sergi Roberto,es ESP,DF,24,32,26,2383,26.5,0,5,5,0,0,0,5,0,0.00,0.19,0.19,0.00,0.19,Matches,335fa267
+Ivan Rakitić,hr CRO,MF,28,32,26,2341,26.0,8,6,14,8,0,0,5,0,0.31,0.23,0.54,0.31,0.54,Matches,89f951b5
+Gerard Piqué,es ESP,DF,29,25,25,2191,24.3,2,0,2,2,0,0,6,0,0.08,0.00,0.08,0.08,0.08,Matches,adfc9123
+Samuel Umtiti,fr FRA,DF,22,25,24,2129,23.7,1,0,1,1,0,0,4,0,0.04,0.00,0.04,0.04,0.04,Matches,3eed9821
+Jordi Alba,es ESP,DF,27,26,21,1968,21.9,1,6,7,1,0,0,4,0,0.05,0.27,0.32,0.05,0.32,Matches,4601e194
+Javier Mascherano,ar ARG,DF,32,25,20,1921,21.3,1,3,4,0,1,1,6,0,0.05,0.14,0.19,0.00,0.14,Matches,5070881b
+André Gomes,pt POR,MF,23,30,17,1591,17.7,3,1,4,3,0,0,3,0,0.17,0.06,0.23,0.17,0.23,Matches,1961b2aa
+Arda Turan,tr TUR,FWMF,29,18,14,1244,13.8,3,3,6,3,0,0,1,0,0.22,0.22,0.43,0.22,0.43,Matches,017ab4d4
+Lucas Digne,fr FRA,DF,23,17,14,1171,13.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,1b84dbe1
+Rafinha,br BRA,MF,23,18,14,1073,11.9,6,2,8,6,0,0,1,0,0.50,0.17,0.67,0.50,0.67,Matches,0c2ac3cb
+Andrés Iniesta,es ESP,MF,32,23,13,1336,14.8,0,3,3,0,0,0,2,0,0.00,0.20,0.20,0.00,0.20,Matches,cfd65a29
+Denis Suárez,es ESP,MF,22,26,12,1186,13.2,1,3,4,1,0,0,1,0,0.08,0.23,0.30,0.08,0.30,Matches,12c50af5
+Jérémy Mathieu,fr FRA,DF,32,13,12,1039,11.5,1,0,1,1,0,0,0,0,0.09,0.00,0.09,0.09,0.09,Matches,5b887c7a
+Paco Alcácer,es ESP,FW,22,20,6,858,9.5,6,3,9,6,0,0,1,0,0.63,0.31,0.94,0.63,0.94,Matches,a7a9d95a
+Aleix Vidal,es ESP,DF,26,6,5,476,5.3,2,2,4,2,0,0,0,0,0.38,0.38,0.76,0.38,0.76,Matches,04965583
+Marlon,br BRA,DF,20,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,cdf65d12
+Claudio Bravo,cl CHI,GK,33,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,10072610
+Jasper Cillessen,nl NED,GK,27,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,04ac8285
+Carles Aleñá,es ESP,MF,18,3,0,43,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,6c811eb7
+Munir El Haddadi,ma MAR,FWMF,20,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8696bc90
+Àlex Carbonell,es ESP,MF,18,0,0,,,,,,,,,,,,,,,,Matches,aad99f27
+Marc Cardona,es ESP,FW,21,0,0,,,,,,,,,,,,,,,,Matches,b92b456a
+Douglas,br BRA,DF,25,0,0,,,,,,,,,,,,,,,,Matches,ee0da7af
+Wilfrid Kaptoum,cm CMR,MF,20,0,0,,,,,,,,,,,,,,,,Matches,d717630e
+Borja López,es ESP,DF,22,0,0,,,,,,,,,,,,,,,,Matches,d02d04ea
+Jordi Masip,es ESP,GK,27,0,0,,,,,,,,,,,,,,,,Matches,8fae77ea
+Nili,es ESP,DF,22,0,0,,,,,,,,,,,,,,,,Matches,6f1cce9a
+Sergi Samper,es ESP,MF,21,0,0,,,,,,,,,,,,,,,,Matches,6a7586f4
+Squad Total,,,26.9,38,418,3420,38.0,113,71,184,105,8,9,74,1,2.97,1.87,4.84,2.76,4.63,,-9999
+Opponent Total,,,26.5,38,418,3420,38.0,35,24,59,35,0,0,104,10,0.92,0.63,1.55,0.92,1.55,,-9999
