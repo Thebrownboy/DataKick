@@ -18,7 +18,7 @@ def web_driver():
     options.add_argument("--window-size=1920, 1200")
     options.add_argument('--disable-dev-shm-usage')
     driver = webdriver.Chrome(options=options)
-    return drive
+    return driver
 
 season_link = "https://fbref.com/en/comps/12/2019-2020/schedule/2019-2020-La-Liga-Scores-and-Fixtures"
 browser= web_driver()
