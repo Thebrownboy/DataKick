@@ -13,15 +13,15 @@
 </p>
 
 📝 Table of Contents
-- [📙  Economic Landscape](#EcoLand)
-- [🏁 Team Statistics Description](#Teamstat)
-- [💻 Predicting the number of players needed  for each position ](#predPos)
-- [📷 Suggesting players for the postion](#sugPos)
+- [Economic Landscape](#EcoLand)
+- [Team Statistics Description](#Teamstat)
+- [ Predicting the number of players needed  for each position ](#predPos)
+- [Suggesting players for the postion](#sugPos)
 - [How opponent formation affect us](#oppForm)
 - [How age can affect the performance](#agePerf)
 - [Predicting the result of a match](#matchPred)
 
-# 📙 Economic Landscape <a name = "EcoLand"></a>
+# 📙 Economic Landscape <a name = "#EcoLand"></a>
 In this section, we will examine the significant market value surge experienced by the team during the 2019/2020 and 2020/2021 seasons, and explore the factors behind this growth while considering strategies to further double it.
 <br>
 <br>
