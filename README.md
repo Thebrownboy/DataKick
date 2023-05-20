@@ -13,7 +13,7 @@
 </p>
 
 📝 Table of Contents
-- [📙 About](#about)
+- [📙 ](#about)
 - [🏁 Install](#install)
 - [💻 Built using](#tech)
 - [📷 Demo Screenshots](#screenshots)
