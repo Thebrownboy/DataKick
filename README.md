@@ -36,9 +36,9 @@ cd DataKick
 # 📷 Demo Screenshots
 <div name="screenshots" >
     <h2> photo 1 </h2>
-    <img src="screenshots/cover.PNG" width="100%" height="100%" />
+    <img src="screenshots/cover.png" width="100%" height="100%" />
     <hr>
     <h2> photo 2 </h2>
-    <img src="screenshots/cover.PNG" width="100%" height="100%" />
+    <img src="screenshots/cover.png" width="100%" height="100%" />
     
 </div>
